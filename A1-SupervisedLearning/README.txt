@@ -3,7 +3,7 @@ Assignment 1 - Supervised Learning
 Student ID: vagrawal63
 
 Steps to run my code:
-1. All the code and data is available at a public Github repository hosted at: 
+1. All the code and data is available at a public Github repository hosted at: https://github.com/exemplory/CS7641/tree/master/A1-SupervisedLearning OR https://github.gatech.edu/vagrawal63/machine-learning/upload/master/assignment-1
 2. Download the data files: adult.csv and winequality.csv
 3. The entire code is in Python 3 and requires the scikit-learn v.0.21.3, Numpy and Pandas (any version will work)
 3. The easiest way to run the code is to download the Jupyter Notebooks and run on Python 3. 
