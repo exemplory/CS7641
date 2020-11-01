@@ -1,0 +1,2 @@
+,mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_hidden_layer_sizes,param_learning_rate_init,params,split0_test_score,split1_test_score,split2_test_score,split3_test_score,split4_test_score,mean_test_score,std_test_score,rank_test_score
+0,0.1258007526397705,0.019763261267280677,0.00039882659912109374,0.0004884619722974922,12,0.35,"{'hidden_layer_sizes': 12, 'learning_rate_init': 0.35}",0.8054862842892768,0.8129675810473815,0.8241895261845387,0.8202247191011236,0.8339575530586767,0.8193612774451098,0.009700223064694008,1
