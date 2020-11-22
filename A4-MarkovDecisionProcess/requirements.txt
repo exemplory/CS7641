@@ -1,0 +1,7 @@
+dill
+numpy
+mdptoolbox_hiive
+pandas
+gym
+seaborn
+matplotlib
